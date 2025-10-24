@@ -16,6 +16,12 @@ This project uses a Financial Sales dataset to build a Power BI dashboard featur
 
 ---
 
+## 🖼 Dashboard View
+<img width="1163" height="672" alt="Screenshot 2025-10-24 212619" src="https://github.com/user-attachments/assets/4b060df0-0415-4e41-9568-b9e1ca2c2667" />
+
+
+---
+
 ## Key Insights
 
 - Total Sales: 118.73M  
